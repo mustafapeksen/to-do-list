@@ -18,6 +18,7 @@ This is a simple ToDo list application built with React. It allows users to mana
 ## Usage
 
 1. Clone the repository:
+   
 `git clone https://github.com/mustafapeksen/to-do-list.git`
 
 2. Navigate to the project directory:
